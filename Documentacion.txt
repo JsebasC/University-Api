@@ -1,0 +1,26 @@
+Se utiliza : ASP .Net Framework 4.7.2
+Nugets : entityFramework.SqlServer, Tools
+	Microsoft.AspNet.Identity.Owin :Crear una unica instancia por request
+
+
+
+DataAnnotations
+	https://learn.microsoft.com/es-es/aspnet/core/mvc/models/validation?view=aspnetcore-7.0
+	Marcar tabla en la clase, poner [Table("Course",Schema ="dbo")]
+	Para que EntityFramework evite hacer una propiedad terminada con ID autoincremental poner :  [DatabaseGenerated(DatabaseGeneratedOption.None)]''''''''''''''''''''''''''''''	
+	
+
+El flujo va asi
+	El controller -> llama el Services -> Llama al Repository - > Llama Al DBContext -> el DbContext utiliza los modelos
+
+Patron DTO :
+	Objeto que se utiliza para personalizar y devolver el modelo, 
+	sin tener que tomarlo directamente la clase del modelo misma, 
+	si no que creamos las propiedades que queramos exponer o recibir ya sea en un post o put
+	
+	Automaper:
+		Nos permite mapear el DTO y el modelo (Hacer la conversión para saber que estamos referenciando)
+
+Instalar Swagger
+	Cuando se documente un metodo con el  /// <summary></summary> Habilitar
+		> Propiedades en el proyecto, > build, > XML documentation file

@@ -1,0 +1,14 @@
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\bin\Debug\University.BL.dll.config
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\bin\Debug\University.BL.dll
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\bin\Debug\University.BL.pdb
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\bin\Debug\EntityFramework.dll
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\bin\Debug\EntityFramework.xml
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\obj\Debug\University.BL.csproj.AssemblyReference.cache
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\obj\Debug\University.BL.csproj.CoreCompileInputs.cache
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\obj\Debug\University.BL.csproj.CopyComplete
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\obj\Debug\University.BL.dll
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\obj\Debug\University.BL.pdb
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\bin\Debug\AutoMapper.dll
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\bin\Debug\AutoMapper.xml
