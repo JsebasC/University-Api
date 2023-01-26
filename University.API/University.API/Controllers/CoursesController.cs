@@ -14,6 +14,9 @@ using University.BL.Services.Implements;
 
 namespace University.API.Controllers
 {
+
+    [Authorize] //debe tener la petición un token para poder consumir todos los metodos
+
     /// <summary>
     /// Controlador de Cursos
     /// </summary>
@@ -69,6 +72,7 @@ namespace University.API.Controllers
         /// <response code = "400">No se ha encontrado el objeto solicitado</response>
         [HttpGet]
         [ResponseType(typeof(CourseDTO))]
+        //[Authorize]// autorizacion por metodo
         public async Task<IHttpActionResult> GetById(int id)
         {
             var courses = await courseService.GetById(id);

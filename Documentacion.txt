@@ -24,3 +24,29 @@ Patron DTO :
 Instalar Swagger
 	Cuando se documente un metodo con el  /// <summary></summary> Habilitar
 		> Propiedades en el proyecto, > build, > XML documentation file
+
+
+----------------------------------------------
+JWT (https://jwt.io/)
+
+> install : nugets JWT : System.IdentityModel.Tokens.Jwt
+
+Es un estandar RFC 7519 para transmitir información con la identidad y claims de un usuario
+de forma segura entre un cliente/servidor. Dicha información puede ser verificada y confiable
+porque está firmada digitalmente
+
+JWT :  es simplemente una cadena de texto que tiene 3 partes codificadas en Base64, separadas por punto
+header.payload.firma
+
+
+	Header : Indica el algoritmo y tipo de Token (HS256 Y JWT)
+	Payload : datos de usuarios/claims, fecha creación/ caducidad Token , podemos incluir los atributos que queramos
+	Signature : La firma, para verificar que el token es válido, aqui lo importante es el secret con el que firmamos
+
+[Authorize] : Poner esto en el controlador te ayuda a encapsular el controlador para autenticación
+	Al consumir el servicio poner en postman
+	> Authorization, > Type : Bearer Token, > Pegar el Token Generado
+
+
+---------------------------------------------------------------------
+
