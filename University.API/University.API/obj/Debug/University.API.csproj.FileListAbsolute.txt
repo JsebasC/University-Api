@@ -136,3 +136,6 @@ C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET
 C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.API\bin\System.Text.Json.xml
 C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.API\bin\System.Threading.Tasks.Extensions.xml
 C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.API\bin\System.ValueTuple.xml
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.API\bin\System.Web.Cors.dll
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.API\bin\System.Web.Http.Cors.dll
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.API\bin\System.Web.Http.Cors.xml

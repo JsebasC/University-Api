@@ -494,6 +494,11 @@
             <param name="loginDTO"></param>
             <returns></returns>
         </member>
+        <member name="T:University.API.Controllers.CoursesController">
+            <summary>
+            Controlador de Cursos
+            </summary>
+        </member>
         <member name="M:University.API.Controllers.CoursesController.#ctor">
             <summary>
             Constructor que inicializa el automapper

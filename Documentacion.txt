@@ -49,4 +49,15 @@ header.payload.firma
 
 
 ---------------------------------------------------------------------
+Publicar el api local, (IIS)
 
+	> activar IIS
+		>click derecho Univesity.API
+			>publish, Carpeta,
+			> pegar la carpeta de publicado aca: C:\inetpub\wwwroot
+			> aparecera en iis, click derecho y Convertir en aplicacion
+			> url a consumir : http://localhost/University.API/api/Courses
+				> documentacion swagger : http://localhost/University.API/swagger/ui/index
+	> crear usuario SQL Server
+		>UserUniversity
+		>123456

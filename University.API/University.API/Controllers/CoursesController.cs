@@ -15,7 +15,7 @@ using University.BL.Services.Implements;
 namespace University.API.Controllers
 {
 
-    [Authorize] //debe tener la petición un token para poder consumir todos los metodos
+   // [Authorize] //debe tener la petición un token para poder consumir todos los metodos
 
     /// <summary>
     /// Controlador de Cursos
