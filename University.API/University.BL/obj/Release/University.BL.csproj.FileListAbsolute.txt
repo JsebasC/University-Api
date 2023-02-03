@@ -1,0 +1,14 @@
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\bin\Release\University.BL.dll.config
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\bin\Release\University.BL.dll
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\bin\Release\University.BL.pdb
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\bin\Release\AutoMapper.dll
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\bin\Release\EntityFramework.dll
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\bin\Release\AutoMapper.xml
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\bin\Release\EntityFramework.xml
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\obj\Release\University.BL.csproj.AssemblyReference.cache
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\obj\Release\University.BL.csproj.CoreCompileInputs.cache
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\obj\Release\University.BL.csproj.CopyComplete
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\obj\Release\University.BL.dll
+C:\Users\Johan Sebastian Cuel\Desktop\El camino con C#\Angular\Angular + ASP.NET Web API\University.API\University.BL\obj\Release\University.BL.pdb

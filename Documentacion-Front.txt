@@ -1,0 +1,78 @@
+Instalar :
+
+	>Node JS
+	>npm install -g @angular/cli@latest
+
+	>ng version : version de angular
+
+Angular
+	>ng new my-project
+	>ng serve --open	// ng serve -o
+
+>Componente
+	> ng generate component ng // ng g c ___nombre componente_
+
+>Interface o clase del modelo
+	> ng g i _nameInterface_
+
+>Services : intermediario entre el api y el componente
+	> ng g s _nameservice_
+
+>Guard : middleware
+	> ng g g _name__
+
+>Route : Navegar entre componentes
+	> ng g m app --routing
+
+>Environment : Variables especificas para diferentes entornos, desarrollo, production. ETC
+	>ng generate environments
+
+------------------------------------------
+Temas : 
+
+Consumir backend :breve
+
+Construir pipe : tuberia que nos ayuda a transformar datos 
+
+Construir un guard : middelware 
+
+como inyectar los servicios en angular : en el constructor se recibe como parametro el service
+	HttpClientModule
+
+
+--------
+que es un componente : Dividido en 4 partes Archivo:, HTML, CSS, JAVASCRIPT, TEST : pieza pequeña 
+
+que es un modulo : sirve para que se reconozca un componente
+	
+	Modulo principal:
+	
+		app.module
+
+		Route/module que asimila rutas
+		
+			> por medio de rutas agrego los modulos hijos, al principal
+	
+
+	Modulos padres - hijos
+
+		Course.module.ts : Se añaden los componentes (CRUD)
+			
+
+
+que es un servicio: Llamada al api, intermediario entre el componente y el api conexion contra al api, cada consulta debe estar en un curso
+
+	Interface/Modelo  = DTOS en .NET : Espeficia el modelo de la clase, se debe recibir DTO 
+	
+	
+
+que es spect: test unitarios
+
+decorador angular :  especifico de angular
+
+	Sirve para añadir comportamiento adicional a un componente,  tambien para decorar componente como metadatos, 
+	 Los decoradores pueden utilizarse para inyectar dependencias, para definir metadatos
+	 y para configurar un componente antes de que se cree
+--------
+
+---------------------

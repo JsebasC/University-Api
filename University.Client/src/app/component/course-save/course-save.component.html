@@ -1,0 +1,55 @@
+<div class="container">
+  <h2>Create course</h2>
+
+  <div class="form-row" *ngIf="showMsg">
+    <!--Evuluar expresion : el div se muestra si la condicion cumple-->
+    <div class="alert alert-{{ type }} col-md-12" role="alert">
+      {{ msg }}
+    </div>
+  </div>
+
+  <form #courseForm="ngForm">
+    <div class="form-row">
+      <div class="col-md-4">
+        <label>ID:</label>
+        <input
+          type="text"
+          id="courseId"
+          name="courseId"
+          placeholder="Enter the course Id"
+          class="form-control"
+          #courseId
+          [(ngModel)]="course.CourseId"
+        />
+      </div>
+      <div class="col-md-4">
+        <label>Titulo:</label>
+        <input
+          type="text"
+          id="title"
+          name="title"
+          placeholder="Enter the title"
+          class="form-control"
+          #courseId
+          [(ngModel)]="course.Title"
+        />
+      </div>
+      <div class="col-md-4">
+        <label>Credits:</label>
+        <input
+          type="text"
+          id="credits"
+          name="credits"
+          placeholder="Enter the credits"
+          class="form-control"
+          #courseId
+          [(ngModel)]="course.Credits"
+        />
+      </div>
+    </div>
+
+    <br />
+    <button class="btn btn-primary" (click)="save()">Guardar</button>
+    <a class="btn btn-primary" [routerLink]="['/course-list']"  >List</a>
+  </form>
+</div>

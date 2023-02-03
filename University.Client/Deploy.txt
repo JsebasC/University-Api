@@ -1,0 +1,8 @@
+Compilar para produccion y montarlo en IIS como contenido estatico(Los servicios ya estan montados en este mismo server)
+
+>ng build --configuration production --aot : Se crea una carpeta Dist y adentro esta todo
+	Modificar en el Index : Borrar <base href="">
+
+>en IIS ir a : C:\inetpub\wwwroot, pegar el compilado de dist/name_app
+	>Convertir en aplicacion
+	
